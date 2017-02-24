@@ -1,5 +1,7 @@
 # how_to_make_an_image_classifier
-This is the code for the "How to Make an Image Classifier" - Intro to Deep Learning #6 by Siraj Raval on Youtube
+This is my work to complete this weeks challenge.
+
+If you want to test this model on your own the weights are available [here](https://drive.google.com/open?id=0B3ZlDLW3T9nlWHBSS0NGLVpDV1U)
 
 ##Overview
 
